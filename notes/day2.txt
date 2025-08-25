@@ -1,5 +1,8 @@
 This are notes from day 2
 We learned about PRs and Mergers
 
----
+
 Adding from conflict branch
+=======
+Adding from main branch
+
