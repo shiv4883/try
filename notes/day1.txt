@@ -1,0 +1,3 @@
+Learned 
+Git basics 
+COmmands like init, add, commit, push
