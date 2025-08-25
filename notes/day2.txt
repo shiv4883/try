@@ -1,0 +1,2 @@
+This are notes from day 2
+We learned about PRs and Mergers
