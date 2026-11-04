@@ -1,0 +1,2 @@
+Dummy file for SCRUM-6 testing
+new line
